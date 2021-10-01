@@ -1,0 +1,29 @@
+Тест: без ошибок 
+--- Протокол --- Дата: 21.05.2021 13:05:19
+--- Параметры --- 
+-in : in.txt
+-out: out.txt
+-log: log.txt
+--- Исходные данные --- 
+Строка : abbg|abccfbg|abcdefbg|abccddeefbbg|abcdeeeeeeefddddddfbg|abccddeefccddeefccddefbg|abbbg|abcabcabc|ab|
+Количество символов : 101
+Количество строк    : 10
+Проигнорировано     : 0
+
+Цепочка abbg распознана.
+
+Цепочка abccfbg распознана.
+
+Цепочка abcdefbg распознана.
+
+Цепочка abccddeefbbg распознана.
+
+Цепочка abcdeeeeeeefddddddfbg распознана.
+
+Цепочка abccddeefccddeefccddefbg распознана.
+
+Цепочка abbbg распознана.
+
+Цепочка abcabcabc не распознана. Ошибка распознавания. Строка: 8 Символ: 4
+
+Цепочка ab не распознана. Ошибка распознавания. Строка: 9 Символ: 4
