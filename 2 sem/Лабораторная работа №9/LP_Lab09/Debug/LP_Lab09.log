@@ -1,0 +1,5 @@
+﻿  LP_Lab09.cpp
+e:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №9\LP_Lab09\LP_Lab09.cpp(37,40): warning C4305: аргумент: усечение из "double" в "float"
+e:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №9\LP_Lab09\LP_Lab09.cpp(38,46): warning C4305: аргумент: усечение из "double" в "float"
+e:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №9\LP_Lab09\LP_Lab09.cpp(39,70): warning C4305: аргумент: усечение из "double" в "float"
+  LP_Lab09.vcxproj -> E:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №9\Debug\LP_Lab09.exe

@@ -1,0 +1,19 @@
+﻿Сборка начата 21.04.2020 19:09:58.
+Уровень детализации журнала: Normal.     1>Проект "D:\Доки\Уник\Лаба ОАИП\2 сем ЯП\LP_Lab08S\LP_Lab08L\LP_Lab08L.vcxproj" в узле 3 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LP_Lab08L.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Lib:
+         Для всех выходных данных обновления не требуется.
+         LP_Lab08L.vcxproj -> D:\Доки\Уник\Лаба ОАИП\2 сем ЯП\LP_Lab08S\Debug\LP_Lab08L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\LP_Lab08L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_Lab08L.tlog\LP_Lab08L.lastbuildstate".
+     1>Сборка проекта "D:\Доки\Уник\Лаба ОАИП\2 сем ЯП\LP_Lab08S\LP_Lab08L\LP_Lab08L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.55
