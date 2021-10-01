@@ -1,0 +1,5 @@
+﻿  Dictionary.cpp
+e:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №7\Dictionary\Dictionary.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+e:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №7\Dictionary\Dictionary.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+e:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №7\Dictionary\Dictionary.cpp(84): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+  Dictionary.vcxproj -> E:\!ПОИТ\Second\!ЯП\Лабы\Лабораторная работа №7\Debug\LPLab07.exe
