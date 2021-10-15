@@ -1,0 +1,28 @@
+﻿Сборка начата 15.10.2021 20:04:51.
+Уровень детализации журнала: Normal.     1>Проект "e:\!ПОИТ\2\First\ЯП\Лабы\LPLab14\LPLab14\LPLab14.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LPLab14.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\SOFT\Visual Studio\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt In.cpp
+         In.cpp
+       Link:
+         E:\SOFT\Visual Studio\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\!ПОИТ\2\First\ЯП\Лабы\LPLab14\Debug\LPLab14.exe" /INCREMENTAL /ILK:"Debug\LPLab14.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\!ПОИТ\2\First\ЯП\Лабы\LPLab14\Debug\LPLab14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\!ПОИТ\2\First\ЯП\Лабы\LPLab14\Debug\LPLab14.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\In.obj
+         Debug\Log.obj
+         Debug\LPLab13.obj
+         Debug\LPLab14.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\Test.obj
+         LPLab14.vcxproj -> E:\!ПОИТ\2\First\ЯП\Лабы\LPLab14\Debug\LPLab14.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LPLab14.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LPLab14.tlog\LPLab14.lastbuildstate".
+     1>Сборка проекта "e:\!ПОИТ\2\First\ЯП\Лабы\LPLab14\LPLab14\LPLab14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:04.74
